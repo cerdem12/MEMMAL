@@ -13,8 +13,9 @@ MEMMAL is a simple recipe to construct large-scale mechanistic models using mach
 
 1. Follow the SPARCED installation steps and start your docker container.  
 2. Download the MEMMAL folders here and upload "input_files and jupyter_notebooks" to the above container. Notice that you will be replacing default SPARCED folders.
-3. Upload the MOBILE produced files (associations list and data files) into the input_files folder. 
-4. Run: 
+3. (Optional) Install MOBILE and run it to obtain your favorite associations list. A list that is studided in our work is provided [here](xxx).
+4. Upload the MOBILE produced files (associations list and data files) into the input_files folder. 
+5. Run: 
     - `enlargeModel` notebook
     - `createModel_o4a` notebook
     - `runModel` notebook
