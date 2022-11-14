@@ -16,10 +16,10 @@ MEMMAL is a simple recipe to construct large-scale mechanistic models using mach
 3. (Optional) Install MOBILE and run it to obtain your favorite associations list. The studied list is provided [here](xxx).
 4. Upload the MOBILE produced files (associations list and data files) into the "input_files" folder. 
 5. Run: 
-    - `enlargeModel` notebook (MEMMAL)
-    - `createModel_o4a` notebook (SPARCED default)
-    - `fitModel` notebook (MEMMAL)
-    - `runModel` notebook (SPARCED default)
+    - `enlargeModel` notebook (new from MEMMAL)
+    - `createModel_o4a` notebook (modified from SPARCED default)
+    - `fitModel` notebook (new from MEMMAL)
+    - `runModel` notebook (modified from SPARCED default)
 
 ### Model testing and performance
 
