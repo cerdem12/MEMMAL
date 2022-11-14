@@ -18,6 +18,7 @@ MEMMAL is a simple recipe to construct large-scale mechanistic models using mach
 5. Run: 
     - `enlargeModel` notebook
     - `createModel_o4a` notebook
+    - `fitModel` notebook
     - `runModel` notebook
 
 ### Model testing and performance
