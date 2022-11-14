@@ -17,7 +17,7 @@ MEMMAL is a simple recipe to construct large-scale mechanistic models using mach
 4. Upload the MOBILE produced files (associations list and data files) into the "input_files" folder. 
 5. Run: 
     - `enlargeModel` notebook (MEMMAL)
-    - `createModel_o4a` notebook (SPARCED defaults)
+    - `createModel_o4a` notebook (SPARCED default)
     - `fitModel` notebook (MEMMAL)
     - `runModel` notebook (SPARCED default)
 
