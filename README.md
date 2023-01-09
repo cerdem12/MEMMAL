@@ -16,10 +16,14 @@ MEMMAL is a simple recipe to construct large-scale mechanistic models using mach
 3. (Optional) Install MOBILE and run it to obtain your favorite associations list.
 4. Upload the MOBILE produced files (associations list and data files) into the "input_files" folder. 
 5. Run: 
-    - `testMEMMAL` notebook: Runs all notebooks below
+    - `testMEMMAL` notebook: Runs all notebooks below.
     - `enlargeModel` notebook: Main notebook to create updated input files for (SPARCED) model expansion.
     - `createModel_o4a`: Creates and compiles integrated SBML model files.
     - `runModel` notebook: Simulates and plots the model+data.
+
+### Expanding other SBML models
+
+1. See enlargeSBML folder and the `enlargeSBMLModel` notebook.
 
 ### Model testing and performance
 
