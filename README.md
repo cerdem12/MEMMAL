@@ -23,7 +23,7 @@ MEMMAL is a simple recipe to construct large-scale mechanistic models using mach
 
 ### Model testing
 
-The expanded SPARCED model Antimony and SBML files are provided for testing. Simply run the `runModel` notebook to recreate simulation results.
+The expanded SPARCED model Antimony (MEMMAL_v1.txt) and SBML (MEMMAL_v1.xml) files are provided for model testing. Simply run the `runModel` notebook to recreate simulation results.
 
 ### Expanding other SBML models
 
