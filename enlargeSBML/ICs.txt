@@ -1,0 +1,16 @@
+prot_ACSL5 = 1;
+prot_BST2 = 1;
+prot_CD274 = 1;
+prot_CLIC2 = 1;
+prot_FAM83D = 1;
+prot_HIST2H2AA3 = 1;
+prot_IRF1 = 1;
+prot_METAP2 = 1;
+m_ACSL5 = 1;
+m_BST2 = 1;
+m_CD274 = 1;
+m_CLIC2 = 1;
+m_FAM83D = 1;
+m_HIST2H2AA3 = 1;
+m_IRF1 = 1;
+m_METAP2 = 1;

@@ -1,0 +1,16 @@
+vMMTL1:  => prot_ACSL5; (k3585_1*m_ACSL5)*nucleus;
+vMMTL2:  => prot_BST2; (k3586_1*m_BST2)*nucleus;
+vMMTL3:  => prot_CD274; (k3587_1*m_CD274)*nucleus;
+vMMTL4:  => prot_CLIC2; (k3588_1*m_CLIC2)*nucleus;
+vMMTL5:  => prot_FAM83D; (k3589_1*m_FAM83D)*nucleus;
+vMMTL6:  => prot_HIST2H2AA3; (k3590_1*m_HIST2H2AA3)*nucleus;
+vMMTL7:  => prot_IRF1; (k3591_1*m_IRF1)*nucleus;
+vMMTL8:  => prot_METAP2; (k3592_1*m_METAP2)*nucleus;
+vMMTLd1: prot_ACSL5 => ; (k3593*prot_ACSL5 )*nucleus;
+vMMTLd2: prot_BST2 => ; (k3594*prot_BST2 )*nucleus;
+vMMTLd3: prot_CD274 => ; (k3595*prot_CD274 )*nucleus;
+vMMTLd4: prot_CLIC2 => ; (k3596*prot_CLIC2 )*nucleus;
+vMMTLd5: prot_FAM83D => ; (k3597*prot_FAM83D )*nucleus;
+vMMTLd6: prot_HIST2H2AA3 => ; (k3598*prot_HIST2H2AA3 )*nucleus;
+vMMTLd7: prot_IRF1 => ; (k3599*prot_IRF1 )*nucleus;
+vMMTLd8: prot_METAP2 => ; (k3600*prot_METAP2 )*nucleus;
