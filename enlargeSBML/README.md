@@ -1,3 +1,3 @@
-# Input Files in SPARCED Format
+# enlargeSBML
 
-The data in these files are all tab-delimited between fields. 
+The folder contains an example notebook and input files to expand SBML models using MEMMAL created model species lists.
