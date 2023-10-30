@@ -1,6 +1,6 @@
 # MEMMAL
 
-MEMMAL is a simple recipe to construct large-scale mechanistic models using machine learned associations as new connections. MEMMAL is based on two recent tools: [SPARCED](https://github.com/birtwistlelab/SPARCED) and [MOBILE](https://github.com/cerdem12/MOBILE). The pre-print for MEMMAL is [here](https://www.biorxiv.org/content/10.1101/2022.11.21.517431v1.full).
+MEMMAL is a simple recipe to construct large-scale mechanistic models using machine learned associations as new connections. MEMMAL is based on two recent tools: [SPARCED](https://github.com/birtwistlelab/SPARCED) and [MOBILE](https://github.com/cerdem12/MOBILE).
 
 
 ## Dependencies
@@ -38,5 +38,5 @@ The simulation times for both SPARCED and MOBILE are applicable here. Please ref
 Please cite below work if you use MEMMAL:
 1. [MEMMAL](https://www.frontiersin.org/articles/10.3389/fsysb.2023.1099413/full): Erdem C and Birtwistle MR (2023). MEMMAL: A tool for expanding large-scale mechanistic models with machine learned associations and big datasets. Frontiers in Systems Biology. 3.
 2. [SPARCED](https://rdcu.be/cP6tK): Erdem C, Mutsuddy A, Bensman EM, Saint-Antoine MM, Bouhaddou M, Blake RC, Dodd W, Gross SM, Heiser LM, Feltus FA, Birtwistle MR (2022). A scalable, open-source implementation of a large-scale mechanistic model for single cell proliferation and death signaling. Nature Communications. 13, 3555.
-3. [MOBILE](https://www.biorxiv.org/content/10.1101/2022.07.24.501297v1.full): Erdem C, Gross SM, Heiser LM*, Birtwistle MR (2022). Multi-Omics Binary Integration via Lasso Ensembles (MOBILE) for identification of context-specific networks and new regulatory mechanisms. bioRxiv. doi.org/10.1101/2022.07.24.501297.
+3. [MOBILE](https://www.nature.com/articles/s41467-023-39729-2): Erdem C, Gross SM, Heiser LM, Birtwistle MR (2023). MOBILE pipeline enables identification of context-specific networks and regulatory mechanisms. Nature Communications. 14, 3991.
 
